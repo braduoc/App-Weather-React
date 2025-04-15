@@ -23,6 +23,7 @@ Aplicación del clima creada con **React + Vite**. Consulta el clima actual de c
 git clone https://github.com/braduoc/App-Weather-React.git
 ```
 cd App-Weather-React
+
 2. Asegúrate de tener instalados:
 Node.js (versión recomendada 18 o superior)
 👉 https://nodejs.org/
