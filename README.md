@@ -19,8 +19,6 @@ Aplicación del clima creada con **React + Vite**. Consulta el clima actual de c
 ## 📦 Instalación y ejecución local
 
 ### 1. Clona este repositorio
-
-```bash
 ```
 git clone https://github.com/braduoc/App-Weather-React.git
 ```
